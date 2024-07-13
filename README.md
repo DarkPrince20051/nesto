@@ -1,1 +1,1 @@
-pip install request
+pip install requests
